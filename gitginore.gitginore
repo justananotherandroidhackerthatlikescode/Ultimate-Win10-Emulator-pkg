@@ -1,0 +1,31 @@
+# =============================
+# Ultimate Emulation Platform
+# =============================
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.log
+
+# PowerShell temp files
+*.ps1xml
+*.psd1
+*.psm1
+
+# Emulation folders to ignore
+Emulation/ROMs/
+Emulation/Saves/
+Emulation/States/
+Emulation/Shaders/
+Emulation/BIOS/
+Emulation/Firmware/
+
+# Tools temporary files
+Emulation/Tools/DS4Windows/*.ini
+Emulation/Tools/DS4Windows/Profiles/
+Emulation/Tools/BetterJoy/*.ini
+
+# Playnite database (optional, if you want local DB not in repo)
+Emulation/Frontend/Playnite/Database/
+Emulation/Frontend/Playnite/Library.xm
