@@ -48,4 +48,15 @@ The **Ultimate Emulation Platform (v1.0)** is an all-in-one emulator suite for *
 ---
 
 ## 📁 Folder Structure
+Ultimate-Emulation-Platform/
+│
+├── setup.bat
+├── setup_gui.ps1
+├── install_modules.ps1
+├── README.md
+├── LICENSE.md
+├── VERSION.txt
 
+## Legal
+If you are a contributer of the emulators or tools, and having troubles please contact it in issues! 
+Hope yall enjoy this (i hope this works on Win 11)
