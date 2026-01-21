@@ -1,6 +1,6 @@
 # 🕹️ Ultimate Emulation Platform v1.0
 
-The **Ultimate Emulation Platform (v1.0)** is an all-in-one emulator suite for **Windows 10 x64**, featuring:
+The **Ultimate Emulation Platform (v1.0)** is an all-in-one emulator suite for **Windows 10/11 x64**, featuring:
 
 - Multi-console emulators from **NES → Switch → PS3 → PS Vita**
 - Full controller support: **DualShock 4, Joy-Con, Pro Controller, Xbox, Arcade**
@@ -40,6 +40,7 @@ The **Ultimate Emulation Platform (v1.0)** is an all-in-one emulator suite for *
 
 ### 🖥️ GUI Setup
 
+- Run the .bat script as Admin
 - Checkbox-based installation selection
 - Shows progress for each module
 - Installs emulators, controller tools, Playnite frontend
@@ -59,4 +60,5 @@ Ultimate-Emulation-Platform/
 
 ## Legal
 If you are a contributer of the emulators or tools, and having troubles please contact it in issues! 
+## Have Fun!
 Hope yall enjoy this (i hope this works on Win 11)
