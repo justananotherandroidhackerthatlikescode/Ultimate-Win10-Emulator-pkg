@@ -1,3 +1,6 @@
+#WARNING ⚠️
+This .ps1 File sadly does Not Work.
+But ist will be working in the near Future. Thanks for understanding. 
 # 🕹️ Ultimate Emulation Platform v1.0
 
 The **Ultimate Emulation Platform (v1.0)** is an all-in-one emulator suite for **Windows 10/11 x64**, featuring:
