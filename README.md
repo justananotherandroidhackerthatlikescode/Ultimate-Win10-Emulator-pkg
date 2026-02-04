@@ -1,3 +1,5 @@
+# Archive
+This repo is archived because the ps1 file is not working and i cant fix it. A similar repo is opened please use that. Thanks for Understanding and Good Bye
 # WARNING ⚠️
 This .ps1 File sadly does Not Work.
 But ist will be working in the near Future. Thanks for understanding. 
